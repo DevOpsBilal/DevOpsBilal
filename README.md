@@ -86,9 +86,12 @@ I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating wor
 ---
 
 ## ⚡ Future Certifications:
-- **AWS Certified Solutions Architect – Associate**
-- **Certified Kubernetes Administrator (CKA)**
-- **Microsoft Certified: Azure Fundamentals**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
+  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
+  <img src="https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
+</p>
+
 
 ---
 
