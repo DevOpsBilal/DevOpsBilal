@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.imgur.com/OAFxa2e.png" alt="DevOps Journey Banner" width="800"/>
+  <img src="https://via.placeholder.com/800x200.png?text=DevOps+Journey+Banner" alt="DevOps Journey Banner" width="800"/>
 </p>
 ---
 
