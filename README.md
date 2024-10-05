@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://[link-to-your-image](https://files.oaiusercontent.com/file-c49YjDwTsTuvGdvfiMtAHctG?se=2024-10-05T23%3A01%3A25Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dff5332a6-88f3-44cb-bb03-87368be36efa.webp&sig=KYlBZzhYxRTdaDR/jECiY/UHbrtzygdC4UW3uRY2x10%3D)/A_visually_appealing_banner_for_a_DevOps_Journey,_.png" alt="DevOps Journey Banner" width="800"/>
+  <img src="https://"C:\Users\bilal\Downloads\DALL·E 2024-10-05 23.57.13 - A visually appealing banner for a DevOps Journey, featuring elements like clouds, servers, automation tools, and coding symbols. The design should hav.webp"" alt="DevOps Journey Banner" width="800"/>
 </p>
 ---
 
