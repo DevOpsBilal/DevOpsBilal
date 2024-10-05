@@ -3,9 +3,8 @@
 
 ---
 <p align="center">
-  <img src="https://i.imgur.com/qM3X4tY.png" alt="DevOps Journey Banner" width="800"/>
+  <img src="https://i.imgur.com/OAFxa2e.png" alt="DevOps Journey Banner" width="800"/>
 </p>
-
 ---
 
 ## 🚀 My DevOps Journey:
@@ -86,12 +85,14 @@ I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating wor
 ---
 
 ## ⚡ Future Certifications:
+<p align="center">
+  <img src="https://i.imgur.com/V25MxTu.png" alt="Certifications Banner" width="800"/>
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
   <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
   <img src="https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
 </p>
-
 
 ---
 
