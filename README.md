@@ -1,35 +1,69 @@
-Got it! Here’s an enhanced, visually appealing GitHub introduction with badges, icons, and other elements to make your profile pop:
+# Welcome to My GitHub 👋  
+**Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate**
 
 ---
 
-# Hi, I'm Bilal 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=BilalDevOps&color=blue)  
-**Aspiring DevOps Engineer** | **Cloud Enthusiast** | **Automation Advocate**
-
----
-
-## 🔭 What I’m Working On:
-- 🚀 **Building CI/CD pipelines** for seamless software deployment
-- 🛠️ **Exploring container orchestration** with Docker & Kubernetes
-- 📦 **Infrastructure as Code** (IaC) using Terraform & Ansible
-- 🛡️ **Securing DevOps** workflows with DevSecOps principles
+<p align="center">
+  <img src="https://your-image-link-here" alt="DevOps Journey Banner" width="600"/>
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools I Use:
+## 🚀 My DevOps Journey:
+
+I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating workflows, managing infrastructure, and scaling applications. Though I’m currently focused on mastering **Linux**, I have a clear path for the future. I’m diving deep into the world of **cloud computing**, **containerization**, and **CI/CD pipelines**. Here’s what I aim to master in the future:
+
+---
+
+## 🔭 What I’m Planning to Study:
+
+### 1. **Cloud Technologies** ☁️
+- **AWS**: EC2, S3, Lambda, CloudFormation
+- **Azure**: Virtual Machines, Azure DevOps
+- **Google Cloud**: Compute Engine, Kubernetes Engine
+
+### 2. **Infrastructure as Code (IaC)** 🏗️
+- **Terraform**: Automating infrastructure provisioning
+- **Ansible**: Configuration management and orchestration
+- **Docker & Kubernetes**: Containerization and orchestration
+
+### 3. **CI/CD Automation** ⚙️
+- **Jenkins**: Building automated pipelines
+- **GitHub Actions**: Streamlining workflows and deployments
+- **GitLab CI**: Managing complex CI/CD pipelines
+
+### 4. **Monitoring & Logging** 📊
+- **Prometheus & Grafana**: Metrics and monitoring
+- **ELK Stack**: Centralized logging and analysis
+- **Nagios**: Server monitoring
+
+---
+
+## 🛠️ Future Tech Stack:
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
+
+---
+
+## 🌱 What I’m Currently Learning:
+- Mastering **Linux** for system administration and shell scripting.
+- Learning **basic networking** concepts and tools.
+- Exploring **cloud fundamentals** to start with cloud certifications.
+
+---
+
+## 📘 Upcoming Projects:
+- **Infrastructure as Code (IaC)**: A project using Terraform to manage multi-cloud infrastructure.
+- **CI/CD Pipeline**: Automating deployments for a Node.js application using Jenkins and Docker.
+- **Kubernetes Deployment**: Managing containerized applications using Kubernetes.
 
 ---
 
@@ -41,27 +75,25 @@ Got it! Here’s an enhanced, visually appealing GitHub introduction with badges
 
 ---
 
-## 🌱 Currently Learning:
-- **Cloud Certifications**: AWS & Google Cloud
-- **Advanced Automation**: Jenkins, GitHub Actions
-- **Security in DevOps**: Implementing DevSecOps
-
----
-
-## 🎯 Goals for 2024:
-- **Get Certified** in AWS or Google Cloud
-- **Contribute to Open-Source DevOps Projects**
-- **Build Fully Automated Workflows** for real-world applications
-
----
-
-## 📫 How to Reach Me:
+## 🌐 How to Reach Me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bilal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bilal)  
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Bilal-blue?style=for-the-badge&logo=twitter)](https://twitter.com/bilal)
 
+---
 
+## 📈 DevOps Roadmap:
+<p align="center">
+  <img src="https://roadmap.sh/devops.svg" alt="DevOps Roadmap" width="800"/>
+</p>
 
-<!---
-DevOpsBilal/DevOpsBilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⚡ Future Certifications:
+- **AWS Certified Solutions Architect – Associate**
+- **Certified Kubernetes Administrator (CKA)**
+- **Microsoft Certified: Azure Fundamentals**
+
+---
+
+## 💡 Fun Fact:
+- I'm always automating! Whether it’s scripting tasks in **Linux** or exploring ways to speed up development pipelines, I love making things more efficient.
