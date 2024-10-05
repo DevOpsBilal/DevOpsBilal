@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://"C:\Users\bilal\Downloads\DALL·E 2024-10-05 23.57.13 - A visually appealing banner for a DevOps Journey, featuring elements like clouds, servers, automation tools, and coding symbols. The design should hav.webp"" alt="DevOps Journey Banner" width="800"/>
+  <img src="https://""C:\Users\bilal\Downloads\bilal.webp"" alt="DevOps Journey Banner" width="800"/>
 </p>
 ---
 
