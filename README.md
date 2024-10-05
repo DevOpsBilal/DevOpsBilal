@@ -3,7 +3,11 @@
 
 ---
 
-<p align="center"> <img src="https://github.com/BilalDevOps/BilalDevOps/blob/main/devops-banner.png" alt="DevOps Journey Banner" width="800"/> </p>
+## 🚀 My DevOps Journey:
+
+<p align="center">
+  <img src="https://your-image-url/devops-banner.png" alt="DevOps Journey Banner" width="800"/>
+</p>
 
 ---
 
