@@ -3,11 +3,7 @@
 
 ---
 
-## 🚀 My DevOps Journey:
 
-<p align="center">
-  <img src="https://your-image-url/devops-banner.png" alt="DevOps Journey Banner" width="800"/>
-</p>
 
 ---
 
