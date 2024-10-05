@@ -2,8 +2,9 @@
 **Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate**
 
 ---
-
-
+<p align="center">
+  <img src="https://i.imgur.com/qM3X4tY.png" alt="DevOps Journey Banner" width="800"/>
+</p>
 
 ---
 
