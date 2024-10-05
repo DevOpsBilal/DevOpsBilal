@@ -3,9 +3,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://your-image-link-here" alt="DevOps Journey Banner" width="600"/>
-</p>
+<p align="center"> <img src="https://your-image-link-here" alt="DevOps Journey Banner" width="600"/> </p>
 
 ---
 
@@ -82,9 +80,7 @@ I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating wor
 ---
 
 ## 📈 DevOps Roadmap:
-<p align="center">
-  <img src="https://roadmap.sh/devops.svg" alt="DevOps Roadmap" width="800"/>
-</p>
+<p align="center"> <img src="https://roadmap.sh/devops.svg" alt="DevOps Roadmap" width="800"/> </p>
 
 ---
 
