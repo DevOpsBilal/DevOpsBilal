@@ -81,13 +81,7 @@ Feel free to connect with me on the following platforms:
   <a href="mailto:bilal@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-bilalahmed8044@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://twitter.com/bilal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@bilal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://github.com/bilal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Bilal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+
 
 
 
