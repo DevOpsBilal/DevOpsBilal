@@ -70,8 +70,25 @@ I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating wor
 
 ---
 
-## 🌐 How to Reach Me:
-[![LinkedIn Badge]([https://linkedin.com/in/bilal](https://www.linkedin.com/in/bilal-ahmed44?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIs6DuUouSjaF0Nk8bpprqA%3D%3D))  
+## 🌐 How to Reach Me
+
+Feel free to connect with me on the following platforms:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bilal-ahmed44" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bilal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:bilal@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-bilalahmed8044@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://twitter.com/bilal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@bilal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://github.com/bilal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Bilal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
 
 
 
