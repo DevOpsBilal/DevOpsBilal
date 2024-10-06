@@ -2,10 +2,7 @@
 **Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate**
 
 ---
-<p align="center">
-  <img src="https://""C:\Users\bilal\Downloads\bilal.webp"" alt="DevOps Journey Banner" width="800"/>
-</p>
----
+
 
 ## 🚀 My DevOps Journey:
 
@@ -75,19 +72,13 @@ I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating wor
 
 ## 🌐 How to Reach Me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bilal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bilal)  
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Bilal-blue?style=for-the-badge&logo=twitter)](https://twitter.com/bilal)
 
----
 
-## 📈 DevOps Roadmap:
-<p align="center"> <img src="https://roadmap.sh/devops.svg" alt="DevOps Roadmap" width="800"/> </p>
 
 ---
 
 ## ⚡ Future Certifications:
-<p align="center">
-  <img src="https://i.imgur.com/V25MxTu.png" alt="Certifications Banner" width="800"/>
-</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
   <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
