@@ -71,7 +71,7 @@ I'm **Bilal**, an aspiring **DevOps Engineer** with a passion for automating wor
 ---
 
 ## 🌐 How to Reach Me:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bilal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bilal)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Bilal-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/bilal](https://www.linkedin.com/in/bilal-ahmed44?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIs6DuUouSjaF0Nk8bpprqA%3D%3D))  
 
 
 
